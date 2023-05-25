@@ -9,7 +9,8 @@ Provide a short description explaining the what, why, and how of your project. U
 - What problem does it solve?
 - What did you learn?
 
-![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
+## Website Screenshot
+![alt text](https://andrei-ribeiro-wenceslau.github.io/module-1-challenge/assets/images/horiseon-website.png "Website Screenshot")
 
 ## Installation
 
