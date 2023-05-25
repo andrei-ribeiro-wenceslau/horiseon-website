@@ -17,7 +17,7 @@ N/A
 
 ## Usage
 
-[Project Website Link]([https://www.google.com](https://andrei-ribeiro-wenceslau.github.io/module-1-challenge/))
+[Project Website Link](https://andrei-ribeiro-wenceslau.github.io/module-1-challenge/)
 
 ## Credits
 
